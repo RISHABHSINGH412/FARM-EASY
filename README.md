@@ -28,9 +28,7 @@ Welcome to FARM EASY Bhoomi! 🧑‍🌾🌱 This powerful tool integrates a com
 
 <h2>Team</h2>
 
-- [Deepak Baligar](https://github.com/deepakbaligar-83)<br>
-- [Saisamarth Udikeri](https://github.com/Saisamarth21)<br>
-- [Guruprasad Pattar](https://github.com/Guruprasad006)
+-
 
 
 
